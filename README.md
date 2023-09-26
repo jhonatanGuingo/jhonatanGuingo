@@ -1,7 +1,7 @@
 <h2>Olá 👋 , me chamo Jhonatan Amaral!</h2>
 
-[![Gmail Badge](https://img.shields.io/badge/-buettellucas@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jhonatan.amaral@engenharia.ufjf.br "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-buettellucas-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-amaral-269126214/ "Connect on LinkedIn")
+[![Gmail Badge](https://img.shields.io/badge/-jhonatan.amaral@engenharia.ufjf.br-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jhonatan.amaral@engenharia.ufjf.br "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-jhonatanamaral-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-amaral-269126214/ "Connect on LinkedIn")
 
 -  💻 Sou Desenvolvedor Web Full Stack;
 
