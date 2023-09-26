@@ -121,7 +121,7 @@
       </a>
     </div>
     <h2> Estatísticas </h2>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbuettel&layout=compact&langs_count=7&theme=dark&background=000000"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanguingo&layout=compact&langs_count=7&theme=dark&background=000000"/>
   </div>
   
 </div>
